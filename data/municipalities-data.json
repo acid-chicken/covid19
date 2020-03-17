@@ -5,35 +5,66 @@
     "href": "https://www.city.nara.lg.jp/site/coronavirus/",
     "row": "2/5",
     "column": "14/19",
-    "asides": [{
-      "directions": ["b", "l", "t"],
-      "row": "2",
-      "column": "6/14"
-    }, {
-      "directions": ["r", "t"],
-      "row": "2",
-      "column": "14/19"
-    }, {
-      "directions": ["l", "r"],
-      "row": "3",
-      "column": "14/19"
-    }, {
-      "directions": ["b", "l"],
-      "row": "4",
-      "column": "14/19"
-    }, {
-      "directions": ["b", "t"],
-      "row": "4",
-      "column": "19"
-    }, {
-      "directions": ["r", "t"],
-      "row": "4",
-      "column": "20"
-    }, {
-      "directions": ["b", "l", "r"],
-      "row": "5/13",
-      "column": "20"
-    }]
+    "asides": [
+      {
+        "directions": [
+          "b",
+          "l",
+          "t"
+        ],
+        "row": "2",
+        "column": "6/14"
+      },
+      {
+        "directions": [
+          "r",
+          "t"
+        ],
+        "row": "2",
+        "column": "14/19"
+      },
+      {
+        "directions": [
+          "l",
+          "r"
+        ],
+        "row": "3",
+        "column": "14/19"
+      },
+      {
+        "directions": [
+          "b",
+          "l"
+        ],
+        "row": "4",
+        "column": "14/19"
+      },
+      {
+        "directions": [
+          "b",
+          "t"
+        ],
+        "row": "4",
+        "column": "19"
+      },
+      {
+        "directions": [
+          "r",
+          "t"
+        ],
+        "row": "4",
+        "column": "20"
+      },
+      {
+        "directions": [
+          "b",
+          "l",
+          "r"
+        ],
+        "row": "5/13",
+        "column": "20"
+      }
+    ]
   },
   "29202": {
     "name": "大和高田市",
@@ -41,19 +72,34 @@
     "href": "http://www.city.yamatotakada.nara.jp/life/kenko/coronavirus.html",
     "row": "16",
     "column": "4/9",
-    "asides": [{
-      "directions": ["b", "l", "t"],
-      "row": "16",
-      "column": "4/8"
-    }, {
-      "directions": ["r", "t"],
-      "row": "16",
-      "column": "8"
-    }, {
-      "directions": ["b", "l", "r"],
-      "row": "17/19",
-      "column": "8"
-    }]
+    "asides": [
+      {
+        "directions": [
+          "b",
+          "l",
+          "t"
+        ],
+        "row": "16",
+        "column": "4/8"
+      },
+      {
+        "directions": [
+          "r",
+          "t"
+        ],
+        "row": "16",
+        "column": "8"
+      },
+      {
+        "directions": [
+          "b",
+          "l",
+          "r"
+        ],
+        "row": "17/19",
+        "column": "8"
+      }
+    ]
   },
   "29203": {
     "name": "大和郡山市",
@@ -68,19 +114,34 @@
     "href": "http://www.city.tenri.nara.jp/kakuka/shichoukoushitsu/kohoka/singata1/index.html",
     "row": "6/11",
     "column": "14/19",
-    "asides": [{
-      "directions": ["l", "t"],
-      "row": "6/11",
-      "column": "14"
-    }, {
-      "directions": ["b", "r", "t"],
-      "row": "6/11",
-      "column": "15/19"
-    }, {
-      "directions": ["b", "l", "r"],
-      "row": "11/13",
-      "column": "14"
-    }]
+    "asides": [
+      {
+        "directions": [
+          "l",
+          "t"
+        ],
+        "row": "6/11",
+        "column": "14"
+      },
+      {
+        "directions": [
+          "b",
+          "r",
+          "t"
+        ],
+        "row": "6/11",
+        "column": "15/19"
+      },
+      {
+        "directions": [
+          "b",
+          "l",
+          "r"
+        ],
+        "row": "11/13",
+        "column": "14"
+      }
+    ]
   },
   "29205": {
     "name": "橿原市",
@@ -88,19 +149,34 @@
     "href": "https://www.city.kashihara.nara.jp/article?id=5e2f7de865909e3290f741a8",
     "row": "16",
     "column": "10/15",
-    "asides": [{
-      "directions": ["l", "t"],
-      "row": "16",
-      "column": "10"
-    }, {
-      "directions": ["b", "r", "t"],
-      "row": "16",
-      "column": "11/15"
-    }, {
-      "directions": ["b", "l", "r"],
-      "row": "17/19",
-      "column": "10"
-    }]
+    "asides": [
+      {
+        "directions": [
+          "l",
+          "t"
+        ],
+        "row": "16",
+        "column": "10"
+      },
+      {
+        "directions": [
+          "b",
+          "r",
+          "t"
+        ],
+        "row": "16",
+        "column": "11/15"
+      },
+      {
+        "directions": [
+          "b",
+          "l",
+          "r"
+        ],
+        "row": "17/19",
+        "column": "10"
+      }
+    ]
   },
   "29206": {
     "name": "桜井市",
@@ -115,27 +191,50 @@
     "href": "https://www.city.gojo.lg.jp/kinkyuu/8781.html",
     "row": "24/29",
     "column": "2/9",
-    "asides": [{
-      "directions": ["b", "l", "t"],
-      "row": "24/29",
-      "column": "2/8"
-    }, {
-      "directions": ["r", "t"],
-      "row": "24/29",
-      "column": "8"
-    }, {
-      "directions": ["l", "r"],
-      "row": "29/32",
-      "column": "8"
-    }, {
-      "directions": ["b", "l"],
-      "row": "32",
-      "column": "8"
-    }, {
-      "directions": ["b", "r", "t"],
-      "row": "32",
-      "column": "9/15"
-    }]
+    "asides": [
+      {
+        "directions": [
+          "b",
+          "l",
+          "t"
+        ],
+        "row": "24/29",
+        "column": "2/8"
+      },
+      {
+        "directions": [
+          "r",
+          "t"
+        ],
+        "row": "24/29",
+        "column": "8"
+      },
+      {
+        "directions": [
+          "l",
+          "r"
+        ],
+        "row": "29/32",
+        "column": "8"
+      },
+      {
+        "directions": [
+          "b",
+          "l"
+        ],
+        "row": "32",
+        "column": "8"
+      },
+      {
+        "directions": [
+          "b",
+          "r",
+          "t"
+        ],
+        "row": "32",
+        "column": "9/15"
+      }
+    ]
   },
   "29208": {
     "name": "御所市",
@@ -164,19 +263,34 @@
     "href": "https://www.city.katsuragi.nara.jp/news/index.cfm/detail.1.35670.html",
     "row": "18",
     "column": "2/7",
-    "asides": [{
-      "directions": ["l", "r", "t"],
-      "row": "16/18",
-      "column": "2"
-    }, {
-      "directions": ["b", "l"],
-      "row": "18",
-      "column": "2"
-    }, {
-      "directions": ["b", "r", "t"],
-      "row": "18",
-      "column": "3/7"
-    }]
+    "asides": [
+      {
+        "directions": [
+          "l",
+          "r",
+          "t"
+        ],
+        "row": "16/18",
+        "column": "2"
+      },
+      {
+        "directions": [
+          "b",
+          "l"
+        ],
+        "row": "18",
+        "column": "2"
+      },
+      {
+        "directions": [
+          "b",
+          "r",
+          "t"
+        ],
+        "row": "18",
+        "column": "3/7"
+      }
+    ]
   },
   "29212": {
     "name": "宇陀市",
@@ -184,35 +298,66 @@
     "href": "https://www.city.uda.nara.jp/kenkouzoushin/kenkou/2020newkorona_kanjya.html",
     "row": "14",
     "column": "20/25",
-    "asides": [{
-      "directions": ["l", "r", "t"],
-      "row": "6/14",
-      "column": "22/25"
-    }, {
-      "directions": ["l", "t"],
-      "row": "14",
-      "column": "20"
-    }, {
-      "directions": ["b", "t"],
-      "row": "14",
-      "column": "21"
-    }, {
-      "directions": ["b", "r"],
-      "row": "14",
-      "column": "22/25"
-    }, {
-      "directions": ["l", "r"],
-      "row": "15/18",
-      "column": "20"
-    }, {
-      "directions": ["b", "l", "t"],
-      "row": "18",
-      "column": "18/20"
-    }, {
-      "directions": ["b", "r"],
-      "row": "18",
-      "column": "20"
-    }]
+    "asides": [
+      {
+        "directions": [
+          "l",
+          "r",
+          "t"
+        ],
+        "row": "6/14",
+        "column": "22/25"
+      },
+      {
+        "directions": [
+          "l",
+          "t"
+        ],
+        "row": "14",
+        "column": "20"
+      },
+      {
+        "directions": [
+          "b",
+          "t"
+        ],
+        "row": "14",
+        "column": "21"
+      },
+      {
+        "directions": [
+          "b",
+          "r"
+        ],
+        "row": "14",
+        "column": "22/25"
+      },
+      {
+        "directions": [
+          "l",
+          "r"
+        ],
+        "row": "15/18",
+        "column": "20"
+      },
+      {
+        "directions": [
+          "b",
+          "l",
+          "t"
+        ],
+        "row": "18",
+        "column": "18/20"
+      },
+      {
+        "directions": [
+          "b",
+          "r"
+        ],
+        "row": "18",
+        "column": "20"
+      }
+    ]
   },
   "29322": {
     "name": "山添村",
@@ -220,19 +365,34 @@
     "href": "https://www.vill.yamazoe.nara.jp/life/urgent/4071",
     "row": "2/5",
     "column": "22/25",
-    "asides": [{
-      "directions": ["b", "l", "t"],
-      "row": "2",
-      "column": "20/22"
-    }, {
-      "directions": ["r", "t"],
-      "row": "2",
-      "column": "22/25"
-    }, {
-      "directions": ["b", "l", "r"],
-      "row": "3/5",
-      "column": "22/25"
-    }]
+    "asides": [
+      {
+        "directions": [
+          "b",
+          "l",
+          "t"
+        ],
+        "row": "2",
+        "column": "20/22"
+      },
+      {
+        "directions": [
+          "r",
+          "t"
+        ],
+        "row": "2",
+        "column": "22/25"
+      },
+      {
+        "directions": [
+          "b",
+          "l",
+          "r"
+        ],
+        "row": "3/5",
+        "column": "22/25"
+      }
+    ]
   },
   "29342": {
     "name": "平群町",
@@ -409,18 +569,33 @@
     "kana": "ひがしよしのむら",
     "row": "24",
     "column": "18/25",
-    "asides": [{
-      "directions": ["l", "r", "t"],
-      "row": "20/24",
-      "column": "18/21"
-    }, {
-      "directions": ["b", "l"],
-      "row": "24",
-      "column": "18/21"
-    }, {
-      "directions": ["b", "r", "t"],
-      "row": "24",
-      "column": "21/25"
-    }]
+    "asides": [
+      {
+        "directions": [
+          "l",
+          "r",
+          "t"
+        ],
+        "row": "20/24",
+        "column": "18/21"
+      },
+      {
+        "directions": [
+          "b",
+          "l"
+        ],
+        "row": "24",
+        "column": "18/21"
+      },
+      {
+        "directions": [
+          "b",
+          "r",
+          "t"
+        ],
+        "row": "24",
+        "column": "21/25"
+      }
+    ]
   }
 }
